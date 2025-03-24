@@ -1,4 +1,4 @@
-# lecho-arduino-clion
+# arduino-clion
 Set of Cmake scripts which let you use CLion as an external editor for arduino sketches.
 
 Created and tested on Windows 7 + ARDUINO 1.6.10<br/>
